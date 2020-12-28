@@ -1,0 +1,17 @@
+.header{
+  background-color: #26d0c9;
+  color:white;
+  height: 90px;
+}
+.header-logo{
+    font-size: 40px;
+    color: white;
+    padding:15px;
+    float:left;
+  }
+.header-list li{
+  color:white;
+  list-style:none;
+  float:left;
+  padding:33px 20px;
+}

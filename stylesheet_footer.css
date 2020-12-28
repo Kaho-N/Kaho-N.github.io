@@ -1,0 +1,20 @@
+.footer{
+    background-color: #26d0c9;
+    color:white;
+    height: 90px;
+  }
+.footer-logo{
+    font-size: 40px;
+    color: white;
+    padding:15px;
+    float:left;
+}
+
+.footer-list{
+    float:right;
+}
+.footer-list li{
+    color:white;
+    list-style:none;
+    padding:0px 10px;
+}

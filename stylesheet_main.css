@@ -1,0 +1,13 @@
+.copy-container h1{
+    font-size: 70px;
+}
+.copy-container h2{
+    font-size: 40px;
+}
+input,textarea{
+    width:500px;
+
+}
+.contact-submit{
+    width:50px;
+}
